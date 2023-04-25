@@ -1,11 +1,12 @@
 # Julia Codespace Template
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/matsui528/julia_codespace_template)
+
 Template for easy launch of julia in codespace
 
 ## How to start
-- Click the green "Code" button.
-- Select the "Codespace" tab.
-- Click the "Create codespace on main" button.
+- Click the above `Open in GitHub Codespaces` budge.
+- Click the green `Create codespace` button.
 - The codespace (online vscode editor) is launched. Now you can use julia.
 
 ## How it works
